@@ -1,8 +1,8 @@
 import React from 'react';
-import MovieList from "./Components/MovieList"
+import Movies from "./Components/Movies"
 
 function App() {
-  return <MovieList/>;
+  return <Movies/>;
 }
 
 export default App;

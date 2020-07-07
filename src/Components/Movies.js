@@ -5,10 +5,9 @@ import MovieList from "./MovieList"
 class Movies extends Component{
 
     constructor(props){
-        super (props);
+        super(props);
         this.state = {
             movies:[
-                
                     {
                       id: 1,
                       name: "Spider-Man: Into the Spider-Verse",
